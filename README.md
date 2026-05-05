@@ -38,4 +38,4 @@ Git · GitHub · Vercel · Figma
 
 ## 📫 Contact
 
-[kontakt@codistork.com](mailto:contact@codistork.com) · [codistork.com](https://codistork.com) · [LinkedIn](https://linkedin.com/in/kajetan-majda)
+[contact@codistork.com](mailto:contact@codistork.com) · [codistork.com](https://codistork.com) · [LinkedIn](https://linkedin.com/in/kajetan-majda)
